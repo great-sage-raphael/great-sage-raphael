@@ -4,6 +4,13 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tiny5&duration=6000&pause=1000&color=7633F7&width=435&separator=%3C&lines=HELLO+THERE++I+AM+VINAYAK++)](https://git.io/typing-svg)
  
 </div>
+<div>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,androidstudio,cs,css,figma,html,java,js,mysql,py,unity,unreal,vscode,github,c" />
+  </a>
+</p>
+</div>
 <div align= "center">
   
 ![great-sage-raphael's Stats](https://github-readme-stats.vercel.app/api?username=great-sage-raphael&theme=gotham&show_icons=true&hide_border=true&count_private=true)<br>
@@ -11,8 +18,13 @@
 ![great-sage-raphael's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=great-sage-raphael&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
 </div>
-<div align ="right">
+<div align ="justified">
+  <div align="left">
+      <img alt="profile hit" src="https://great-sage-raphael.github.io/great-sage-raphael/assets_readmeongit/p.gif" >
+  </div>
+  <div align ="right">
   <img alt="profile hit" src="https://great-sage-raphael.github.io/great-sage-raphael/assets_readmeongit/p3.gif" >
+  </div>
 </div>
 <!--
 **great-sage-raphael/great-sage-raphael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
