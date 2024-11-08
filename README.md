@@ -8,7 +8,7 @@
  <h2 align="center"> languages used</h2>
   <p align="center"> z
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cs,css,html,java,js,mysql,py,c,react" />
+    <img src="https://skillicons.dev/icons?i=git,cs,css,html,java,js,mysql,py,c,react,tailwind" />
   </a>
 </p>
    <h2 align="center">softwares used</h2>
