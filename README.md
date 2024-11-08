@@ -6,7 +6,7 @@
 </div>
 <div>
  <h2 align="center"> languages used</h2>
-  <p align="center"> 
+  <p align="center"> z
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cs,css,html,java,js,mysql,py,c,react" />
   </a>
@@ -20,9 +20,10 @@
 </div>
 <div align= "center">
   
-![great-sage-raphael's Stats](https://github-readme-stats.vercel.app/api?username=great-sage-raphael&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)<br>
-![great-sage-raphael's Streak](https://github-readme-streak-stats.herokuapp.com/?user=great-sage-raphael&theme=vue-dark&hide_border=true)<br>
-![great-sage-raphael's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=great-sage-raphael&theme=gotham&show_icons=true&hide_border=true&layout=compact)
+ ![great-sage-raphael's Stats](https://github-readme-stats.vercel.app/api?username=great-sage-raphael&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)<br>
+ ![great-sage-raphael's Streak](https://github-readme-streak-stats.herokuapp.com/?user=great-sage-raphael&theme=midnight-purple&hide_border=true)
+ <br>
+ ![great-sage-raphael's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=great-sage-raphael&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
 </div>
 <div align ="justified">
