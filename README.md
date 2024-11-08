@@ -21,8 +21,10 @@
 <div align= "center">
   
  ![great-sage-raphael's Stats](https://github-readme-stats.vercel.app/api?username=great-sage-raphael&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)<br>
+
  ![great-sage-raphael's Streak](https://github-readme-streak-stats.herokuapp.com/?user=great-sage-raphael&theme=midnight-purple&hide_border=true)
  <br>
+ 
  ![great-sage-raphael's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=great-sage-raphael&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
 </div>
