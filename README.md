@@ -6,7 +6,7 @@
 </div>
 <div>
  <h2 align="center"> languages used</h2>
-  <p align="center"> z
+  <p align="center"> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cs,css,html,java,js,mysql,py,c,react,tailwind" />
   </a>
