@@ -20,14 +20,14 @@
 </div>
 <div align= "center">
   
-![great-sage-raphael's Stats](https://github-readme-stats.vercel.app/api?username=great-sage-raphael&theme=gotham&show_icons=true&hide_border=true&count_private=true)<br>
-![great-sage-raphael's Streak](https://github-readme-streak-stats.herokuapp.com/?user=great-sage-raphael&theme=gotham&hide_border=true)<br>
+![great-sage-raphael's Stats](https://github-readme-stats.vercel.app/api?username=great-sage-raphael&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)<br>
+![great-sage-raphael's Streak](https://github-readme-streak-stats.herokuapp.com/?user=great-sage-raphael&theme=vue-dark&hide_border=true)<br>
 ![great-sage-raphael's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=great-sage-raphael&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
 </div>
 <div align ="justified">
   <div align="left">
-      <img alt="profile hit" src="https://great-sage-raphael.github.io/great-sage-raphael/assets_readmeongit/p.gif" >
+     
   </div>
   <div align ="right">
   <img alt="profile hit" src="https://great-sage-raphael.github.io/great-sage-raphael/assets_readmeongit/p3.gif" >
