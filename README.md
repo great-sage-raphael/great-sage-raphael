@@ -5,9 +5,16 @@
  
 </div>
 <div>
+ <h2 align="center"> languages used</h2>
+  <p align="center"> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,cs,css,html,java,js,mysql,py,c,react" />
+  </a>
+</p>
+   <h2 align="center">softwares used</h2>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,androidstudio,cs,css,figma,html,java,js,mysql,py,unity,unreal,vscode,github,c,react" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,figma,unity,unreal,vscode,github" />
   </a>
 </p>
 </div>
