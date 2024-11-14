@@ -5,10 +5,10 @@
  
 </div>
 <div>
- <h2 align="center"> languages used</h2>
+ <h2 align="center"> languages and frameworks used</h2>
   <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cs,css,html,java,js,mysql,py,c,react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=git,cs,css,html,java,js,mysql,py,c,react,tailwind,vite" />
   </a>
 </p>
    <h2 align="center">softwares used</h2>
