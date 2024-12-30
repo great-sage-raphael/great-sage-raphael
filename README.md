@@ -8,7 +8,11 @@
  <h2 align="center"> languages and frameworks used</h2>
   <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cs,css,html,java,js,mysql,py,c,react,tailwind,vite" />
+    <img src="https://skillicons.dev/icons?i=git,cs,css,html,java,js,mysql,py,c" />
+    <br/>
+     <img src="https://skillicons.dev/icons?i=react,tailwind,vite,npm,arch,bash,express,nodejs,nextjs" />
+    <br/>
+     <img src="https://skillicons.dev/icons?i=typescript" />
   </a>
 </p>
    <h2 align="center">softwares used</h2>
