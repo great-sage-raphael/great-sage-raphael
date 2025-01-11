@@ -18,7 +18,7 @@
    <h2 align="center">softwares used</h2>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,figma,unity,unreal,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,figma,unity,unreal,vscode,github,postman" />
   </a>
 </p>
 </div>
