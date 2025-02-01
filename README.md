@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align=" center">
   
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tiny5&duration=6000&pause=1000&color=7633F7&width=435&separator=%3C&lines=HELLO+THERE++I+AM+VINAYAK++)](https://git.io/typing-svg)
  
