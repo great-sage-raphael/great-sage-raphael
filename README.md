@@ -12,7 +12,7 @@
     <br/>
      <img src="https://skillicons.dev/icons?i=react,tailwind,vite,npm,arch,bash,express,nodejs,nextjs" />
     <br/>
-     <img src="https://skillicons.dev/icons?i=typescript" />
+     <img src="https://skillicons.dev/icons?i=typescript,threejs" />
   </a>
 </p>
    <h2 align="center">softwares used</h2>
