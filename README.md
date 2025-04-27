@@ -8,9 +8,9 @@
  <h2 align="center"> languages and frameworks used</h2>
   <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cs,css,html,java,js,mysql,py,c" />
+    <img src="https://skillicons.dev/icons?i=git,cs,css,html,java,js,rust,mysql,py,c" />
     <br/>
-     <img src="https://skillicons.dev/icons?i=react,tailwind,vite,npm,arch,bash,express,nodejs,nextjs" />
+     <img src="https://skillicons.dev/icons?i=react,tailwind,vite,npm,bash,express,nodejs,nextjs" />
     <br/>
      <img src="https://skillicons.dev/icons?i=typescript,threejs" />
   </a>
@@ -18,7 +18,7 @@
    <h2 align="center">softwares used</h2>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,figma,unity,unreal,vscode,github,postman" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,figma,arch,unity,unreal,vscode,github,postman" />
   </a>
 </p>
 </div>
